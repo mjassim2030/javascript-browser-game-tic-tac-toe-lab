@@ -58,8 +58,7 @@ The game was developed wit the following features:
 
 ## 📸 Demo
 
-* You can access a Live demo of the game via 
-
+* You can access a Live demo of the game via [Cat-Dog-Toe](https://mjassim2030.github.io/javascript-browser-game-tic-tac-toe-lab/)
 
 ---
 
